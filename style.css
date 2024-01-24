@@ -11,4 +11,9 @@
     border-radius: 100%;
     background-color: white;
 }
-
+.loaderf{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
