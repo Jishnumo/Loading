@@ -5,4 +5,10 @@
     background: #200122;
     background: -webkit-linear-gradient(to right, #6f0000, #200122);  
 }
+.loader{
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    background-color: white;
+}
 
