@@ -2,4 +2,6 @@
     margin: 0;
     padding-inline-start: 0;
     box-sizing: border-box;
+    background: #200122;
+    background: -webkit-linear-gradient(to right, #6f0000, #200122);  
 }
